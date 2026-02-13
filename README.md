@@ -1,8 +1,8 @@
-# Heart Disease Risk Prediction System
+Heart Disease Risk Prediction System
 
 This project builds an end-to-end machine learning system to predict heart disease risk using clinical data.
 
-# Dataset
+Dataset
 - UCI Heart Disease Dataset (920 patient records)
 - Binary classification: Disease vs No Disease
 
